@@ -25,6 +25,6 @@ Kullanıcı: pacman
 Şifre: pacman
 
 # İndirme Bağlantısı
-https://drive.google.com/file/d/1pynvWaYGNS9NF_-GQ67cQDztR4GNAe_6/view
+[Download](https://drive.google.com/file/d/1pynvWaYGNS9NF_-GQ67cQDztR4GNAe_6/view)
 
 NOT: ISO boyutu büyük olduğu için Google Drive'a upload edildi.
