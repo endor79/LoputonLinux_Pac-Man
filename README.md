@@ -10,7 +10,7 @@ LoputonLinux'un Pac-Man sürümü, USB üzerinden offline ve online oyunu oynama
 * UEFI desteği.
 * Live Boot.
 
-# Ekran Görüntüsü
+# Ekran Görüntüleri
 ![VirtualBox_loputonlinux_pacman_x64_14_12_2023_14_55_06](https://github.com/endor79/LoputonLinux_Pac-Man/assets/105305285/16b1d08c-8263-47c4-b28d-a83d342315ae)
 ![VirtualBox_loputonlinux_pacman_x64_14_12_2023_14_55_51](https://github.com/endor79/LoputonLinux_Pac-Man/assets/105305285/8fd576ef-c474-455c-9436-70b5c6161ba3)
 ![VirtualBox_loputonlinux_pacman_x64_14_12_2023_14_57_01](https://github.com/endor79/LoputonLinux_Pac-Man/assets/105305285/afecf0ec-7287-4300-b8d2-38bcb8e02c59)
